@@ -1,0 +1,9 @@
+{
+  "hostType": "tunnel",
+  "lanType": "ip",
+  "dev": true,
+  "strict": false,
+  "minify": false,
+  "urlType": "ezp",
+  "urlRandomness": "59-dvm"
+}
